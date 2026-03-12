@@ -1,0 +1,11 @@
+1. Por que a fase de validação de requisitos
+tão crítica e quais as consequências de ignorá-
+la?
+A fase de validação de requisitos é muito importante porque garante que o sistema atenda ao que o cliente realmente precisa. Nessa etapa é verificado se os requisitos estão corretos, completos e bem definidos. Se essa fase for ignorada, podem ocorrer erros no sistema, retrabalho, aumento de custos e atrasos no projeto.
+2. Identificar as cinco principais verificações (ou
+conferências) que são feitas no processo de
+validação? Explique.
+No processo de validação é feita a verificação de requisitos para conferir se o sistema possui tudo o que foi pedido pelo cliente no início do projeto, a verificação de funcionalidades para testar se todas as funções estão funcionando corretamente, a verificação de entrada e saída de dados para conferir se os dados inseridos geram os resultados corretos no sistema, a verificação de usabilidade para avaliar se o sistema é fácil de usar e entender para o usuário, e a verificação de erros para identificar e corrigir falhas ou bugs antes da entrega do software.
+3. Quais são as três técnicas principais de
+validação? Explique.
+Revisões de Requisitos, revisão da definições de requisitos, incluindo tanto o cliente e fornecedor devem ser envolvidos. Prototipação, consiste na criação de um modelo executável para teste de requisitos. Geração de casos de teste, Desenvolve teste para verificar requisitos implementados
